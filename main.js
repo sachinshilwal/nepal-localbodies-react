@@ -1,4 +1,4 @@
 
 const useDistrictComponent = require('./localBodies.jsx')
 
-module.exports = useDistrictComponent;
+module.exports.default = useDistrictComponent;

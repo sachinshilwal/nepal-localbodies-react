@@ -1,4 +1,3 @@
-import './App.css'
 import allDistricts from "./utils/districts";
 import localBodies from "./utils/localBodies";
 
