@@ -35,7 +35,7 @@ const useDistrictComponent = () => {
 
     const template = (
         <>
-           <div className="flex ">
+           <div className="province ">
                <label htmlFor="province"
                       >Province: </label>
                <select id="province" defaultValue={'default'} onChange={changeProvince} name="province"
@@ -50,7 +50,7 @@ const useDistrictComponent = () => {
                    <option value="SudurPaschim">SudurPaschim</option>
                </select>
            </div>
-           <div className="flex ">
+           <div className="districts ">
             <label htmlFor="districts"
                    >District: </label>
 
@@ -61,7 +61,7 @@ const useDistrictComponent = () => {
                 {district}
             </select>
         </div>
-        <div className="flex ">
+        <div className="local ">
             <label htmlFor="local"
                    >Local: </label>
 

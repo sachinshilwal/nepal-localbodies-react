@@ -45,3 +45,4 @@ Output:
 ![img.png](img.png)
 
 
+# Style those input fields according to your need :)

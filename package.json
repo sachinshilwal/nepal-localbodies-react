@@ -1,10 +1,22 @@
 {
   "name": "nepal-localbodies-react",
   "version": "1.1.0",
-  "description": "",
+  "description": "React custom hook for forms elements of nepal-local bodies",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/sachinbro/nepal-localbodies-react",
+  "keywords": [
+    "react",
+    "nepal-districts",
+    "custom hooks",
+    "nepal-localbodies",
+    "nepal-form"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sachinbro/nepal-localbodies-react.git"
   },
   "author": "Sachin Shilwal",
   "license": "MIT",
